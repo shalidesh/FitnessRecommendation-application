@@ -1,0 +1,73 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "tracking_progress",
+      "patterns": ["How can I track my progress?", "What's the best way to monitor my fitness?", "Should I keep a workout journal?"],
+      "responses": ["Tracking your progress is a great idea! You can:\n1. Keep a workout journal to record your exercises and reps\n2. Use fitness tracking apps or wearable devices\n3. Take progress photos to visually track changes\nRemember to set realistic goals and celebrate your achievements."]
+    },
+    {
+      "tag": "nutrition_tips",
+      "patterns": ["Any nutrition tips?", "How can I eat healthier?", "Tell me about a balanced diet"],
+      "responses": ["Certainly! Here are some nutrition tips:\n1. Eat plenty of fruits and vegetables\n2. Stay hydrated by drinking enough water\n3. Include lean proteins in your meals\n4. Limit processed foods and added sugars\nRemember to consult a nutritionist for personalized advice."]
+    },
+    {
+      "tag": "water_intake",
+      "patterns": ["How much water should I drink?", "Is staying hydrated important?", "Tell me about water intake"],
+      "responses": ["Staying hydrated is crucial for your overall health. As a general guideline, aim to drink about 8 glasses of water per day. However, individual water needs may vary based on factors like activity level and climate. Remember to listen to your body and drink water when you're thirsty."]
+    },
+
+    {
+      "tag": "goal_setting",
+      "patterns": ["How can I set fitness goals?", "What are some tips for goal setting?", "How do I stay motivated to achieve my fitness goals?"],
+      "responses": ["Setting fitness goals is a great way to stay motivated. Here are some tips:\n1. Make your goals specific, measurable, and achievable\n2. Break them down into smaller, manageable steps\n3. Write them down and track your progress\n4. Find an accountability partner or join a fitness community\n5. Reward yourself for achieving milestones\nRemember to stay focused and consistent, and celebrate your successes along the way!"]
+      },
+      {
+      "tag": "muscle_building",
+      "patterns": ["How can I build muscle?", "Tell me about muscle-building exercises", "What's the best way to gain muscle mass?"],
+      "responses": ["To build muscle, you need a combination of resistance training and proper nutrition. Here are some tips:\n1. Include compound exercises like squats, deadlifts, and bench presses\n2. Lift weights that challenge you in the 8-12 rep range\n3. Eat enough protein to support muscle growth\n4. Get adequate rest and recovery\n5. Consider working with a personal trainer for guidance\nRemember, building muscle takes time and consistency, so be patient and stay committed."]
+      },
+      {
+      "tag": "weight_loss",
+      "patterns": ["How can I lose weight?", "Tell me about effective weight loss strategies", "What's the best way to shed extra pounds?"],
+      "responses": ["Weight loss is achieved through a combination of calorie deficit, healthy eating, and regular exercise. Here are some tips:\n1. Eat a balanced diet with controlled portions\n2. Include plenty of fruits, vegetables, and lean proteins\n3. Engage in both cardiovascular exercises and strength training\n4. Stay consistent and avoid crash diets\n5. Seek support from a nutritionist or registered dietitian\nRemember, sustainable weight loss is a gradual process, so focus on making long-term lifestyle changes."]
+      },
+
+      {
+        "tag": "injury_prevention",
+        "patterns": ["How can I prevent injuries during exercise?", "Do you have any tips to avoid workout injuries?", "What should I do to stay safe while exercising?"],
+        "responses": ["Safety is important when exercising. Here are some tips to prevent injuries:\n1. Warm up before each workout\n2. Use appropriate equipment and footwear\n3. Maintain proper form and technique\n4. Gradually increase the intensity of your workouts\n5. Listen to your body and take rest days when needed\n6. Incorporate stretching and flexibility exercises\nRemember, if you experience any pain or discomfort during exercise, it's important to stop and consult a healthcare professional."]
+      }
+  
+  ]
+}

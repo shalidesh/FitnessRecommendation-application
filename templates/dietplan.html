@@ -1,0 +1,77 @@
+
+{% extends 'base.html' %}
+
+{% block body %}
+		<!-- end:fh5co-header -->
+		<div class="fh5co-parallax" style="background-image: url({{ url_for('static', filename='images/home-image-41.jpg') }});" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
+						<div class="fh5co-intro fh5co-table-cell animate-box">
+							<h1 class="text-center">AI Recommended Diet Plan</h1>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end: fh5co-parallax -->
+		<!-- end:fh5co-hero -->
+		<div id="fh5co-team-section">
+			<div class="container">
+				<div class="row about">
+					<div class="col-md-12 col-md-offset-0">
+						<img class="img-responsive animate-box" src="{{ url_for('static', filename='images/'+image) }}" alt="About">
+					</div>
+					<idv class="col-md-12 col-md-offset-0 animate-box">
+						<p><b>Breakfast  :</b></p>
+						{% for meel in breakfast %}
+						<blockquote>
+							<p>{{ meel }}</p>
+						</blockquote>
+							
+						{% endfor %}
+
+						<p><b>Mid Morning Snack  :</b></p>
+						{% for meel in mid_morning_snack %}
+						<blockquote>
+							<p>{{ meel }}</p>
+						</blockquote>
+							
+						{% endfor %}
+
+                        <p><b>Lunch :</b></p>
+						{% for meel in lunch %}
+						<blockquote>
+							<p>{{ meel }}</p>
+						</blockquote>
+							
+						{% endfor %}
+
+						<p><b>Afternoon Snack  :</b></p>
+						{% for meel in AfternoonSnack %}
+						<blockquote>
+							<p>{{ meel }}</p>
+						</blockquote>
+							
+						{% endfor %}
+
+						<p><b>Dinner  :</b></p>
+						
+						{% for name in dinner %}
+						<blockquote>
+							<p>{{ name }}</p>
+						</blockquote>
+							
+						{% endfor %}
+						  
+					
+					</div>
+				</div>
+				
+			</div>
+		</div>
+
+		
+{% endblock %}
+		

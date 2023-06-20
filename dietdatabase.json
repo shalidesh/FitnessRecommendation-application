@@ -1,0 +1,1289 @@
+[
+    {
+        "name": "male-20_30-sedentary-muscle_gain-nonVeg",
+        "breakfast": [
+            "2 whole eggs or 3-4 egg whites",
+            "2 slices of whole grain toast",
+            "1 tablespoon of peanut butter",
+            "1 medium-sized banana"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "6 ounces of grilled chicken breast or lean turkey breast",
+            "1 cup of quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of berries"
+        ],
+        "dinner":[
+            "8 ounces of lean beef (such as sirloin or tenderloin) or salmon",
+            "1 cup of sweet potatoes or whole wheat pasta",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-20_30-sedentary-muscle_gain-veg",
+        "breakfast": [
+            "2 whole eggs or tofu scramble",
+            "1 cup cooked oats with almond milk",
+            "1 tablespoon almond butter",
+            "1 medium-sized banana"
+        ],
+        "mid_morning_snack": [
+            "1 apple",
+            "1 serving of mixed nuts (almonds, walnuts, pistachios)"
+        ],
+        "lunch":[
+            "1 cup cooked quinoa or brown rice",
+            "1 cup mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 cup chickpeas or lentils",
+            "1 tablespoon olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1 small apple or a handful of berries"
+
+        ],
+        "dinner":[
+            "1 cup cooked whole wheat pasta or sweet potatoes",
+            "4-6 ounces of tofu or tempeh",
+            "1 cup steamed spinach or kale",
+            "1 tablespoon sesame oil or tahini for dressing"
+
+        ]
+    },
+    {
+        "name": "male-20_30-sedentary-weight_loss-nonVeg",
+        "breakfast": [
+            "2 boiled eggs or 3-4 egg whites",
+            "1 slice of whole grain toast",
+            "1 tablespoon of avocado spread or almond butter",
+            "1 small bowl of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, kale, etc.)",
+            "1/4 cup of quinoa or brown rice",
+            "1/4 cup of black beans or chickpeas",
+           " 1/2 an avocado, sliced"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled fish (such as salmon or cod) or lean beef (4-6 ounces)",
+            "1 cup of roasted vegetables (broccoli, cauliflower, carrots, etc.)",
+            "1/2 cup of quinoa or brown rice",
+            "1 tablespoon of olive oil or lemon juice for dressing"
+        ]
+    },
+    {
+        "name": "male-20_30-sedentary-weight_loss-veg",
+        "breakfast": [
+                        "1 cup of cooked oats with almond milk",
+                        "1 tablespoon of chia seeds",
+                        "1 small handful of mixed berries",
+                        "1 tablespoon of almond butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1/2 cup of chickpeas or black beans",
+            "1/4 avocado",
+            "1 tablespoon of olive oil and vinegar for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1 small apple or a handful of carrot sticks"
+
+        ],
+        "dinner":[
+            "1 cup of cooked lentils or tofu",
+            "1 cup of roasted vegetables (broccoli, cauliflower, zucchini, etc.)",
+            "1/2 cup of cooked quinoa or whole wheat pasta",
+            "1 tablespoon of tahini or salsa for dressing"
+        ]
+    },
+    {
+        "name": "male-20_30-active-muscle_gain-nonVeg",
+        "breakfast": [  "2 whole eggs",
+                        "2-3 egg whites",
+                        "2 slices of whole grain toast",
+                        "1 tablespoon of peanut butter",
+                        "1 medium-sized banana"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+           "6 ounces of grilled chicken breast or lean turkey breast",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 serving of Greek yogurt",
+            "1/2 cup of fresh blueberries"
+
+        ],
+        "dinner":[
+            "8 ounces of grilled chicken breast, lean turkey breast, or lean beef",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of roasted vegetables (broccoli, cauliflower, zucchini, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-20_30-active-muscle_gain-veg",
+        "breakfast": ["2 whole eggs or tofu scramble",
+                        "2 slices of whole grain toast",
+                        "1 tablespoon of peanut butter",
+                        "1 medium-sized banana"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 cup of chickpeas or lentils",
+            "4-6 ounces of tofu or tempeh",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1 small apple or a handful of berries"
+
+        ],
+        "dinner":[
+            "1 cup of cooked whole wheat pasta or quinoa",
+            "4-6 ounces of tofu, tempeh, or seitan",
+            "1 cup of roasted vegetables (broccoli, cauliflower, zucchini, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-20_30-active-weight_loss-nonVeg",
+        "breakfast": ["2 whole eggs",
+                        "2-3 egg whites",
+                        "2 slices of whole grain toast",
+                        "1 tablespoon of almond butter",
+                        "1 medium-sized banana"
+                        
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of berries"
+
+        ],
+        "dinner":[
+            "Grilled chicken breast, lean turkey breast, or lean beef (6-8 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of stir-fried vegetables (broccoli, bell peppers, mushrooms, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-20_30-active-weight_loss-veg",
+        "breakfast": [
+            "1 cup of cooked oats with almond milk",
+            "1 tablespoon of chia seeds",
+            "1 small handful of mixed berries",
+            "1 tablespoon of almond butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1/2 cup of chickpeas or black beans",
+            "1/4 avocado",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1 small apple or a handful of carrot sticks"
+           
+
+        ],
+        "dinner":[
+            "1 cup of cooked whole wheat pasta or quinoa",
+            "1 cup of stir-fried vegetables (broccoli, bell peppers, mushrooms, etc.)",
+            "1/2 cup of tofu or tempeh",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-30_50-sedentary-muscle_gain-nonVeg",
+        "breakfast": [  "3 scrambled eggs or 6 egg whites",
+                        "2 slices of whole grain toast",
+                        "1 tablespoon of almond butter",
+                        "1 medium-sized banana"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean beef (6-8 ounces)",
+           "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of berries"
+
+        ],
+        "dinner":[
+            "Grilled salmon or lean beef (6-8 ounces)",
+            "1 cup of roasted sweet potatoes or whole wheat pasta",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-30_50-sedentary-muscle_gain-veg",
+        "breakfast": [
+            "1 cup of cooked steel-cut oats with almond milk",
+            "1 tablespoon of chia seeds",
+            "1 small handful of mixed berries",
+            "1 tablespoon of almond butte"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1 small apple or a handful of carrot sticks"
+
+        ],
+        "dinner":[
+            "1 cup of cooked tofu or tempeh",
+            "1 cup of roasted sweet potatoes or quinoa",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-30_50-sedentary-weight_loss-nonVeg",
+        "breakfast": [  "3 scrambled eggs or 6 egg whites",
+                        "2 slices of whole grain toast",
+                        "1 small avocado",
+                        "1 medium-sized apple"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled salmon or lean beef (6-8 ounces)",
+            "1 cup of roasted sweet potatoes or quinoa",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+           "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-30_50-sedentary-weight_loss-veg",
+        "breakfast": [  "1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+                        "1/2 cup of rolled oats with almond milk",
+                        "1 tablespoon of chia seeds",
+                        "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+           " 1 small handful of mixed nuts (almonds, walnuts, cashews)"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked tofu or tempeh",
+            "1 cup of roasted sweet potatoes or quinoa",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-30_50-active-muscle_gain-nonVeg",
+        "breakfast": [
+            "1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1/2 cup of rolled oats with almond milk",
+            "1 tablespoon of chia seeds",
+            "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+                    "1 cup of cooked lentils or chickpeas",
+                    "1 cup of cooked quinoa or brown rice",
+                    "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+                    "1 tablespoon of olive oil or avocado for dressing"
+                    ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-30_50-active-muscle_gain-nonVeg",
+        "breakfast": ["3 whole eggs",
+                      "1 slice of whole grain toast",
+                       "1 cup of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 apple",
+            "1 serving of mixed nuts (almonds, walnuts, pistachios)"
+        ],
+        "lunch":[
+            "Grilled chicken breast (6 oz)",
+            "1 cup of mixed veggies (broccoli, carrots, peppers)",
+            "1/2 cup of quinoa"
+        ],
+        "Afternoon Snack":[
+            "1 serving of Greek yogurt",
+            "1/2 cup of fresh blueberries"
+
+        ],
+        "dinner":[
+            "Grilled salmon (6 oz)",
+            "1 cup of mixed veggies (asparagus, Brussels sprouts, mushrooms)",
+            "1/2 cup of brown rice"
+
+        ]
+    },
+    {
+        "name": "male-30_50-active-weight_loss-nonVeg",
+        "breakfast": [
+                    "2 boiled eggs",
+                    "2 slices of whole grain toast",
+                    "1 small avocado",
+                    "1 medium-sized apple"
+                    ],
+        "mid_morning_snack": [
+           " 1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-30_50-active-weight_loss-veg",
+        "breakfast": [
+            "1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1/2 cup of rolled oats with almond milk",
+            "1 tablespoon of chia seeds",
+            "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+           "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+                    ],
+        "Afternoon Snack":[
+            "1 serving of Greek yogurt",
+            "1/2 cup of fresh blueberries"
+
+        ],
+        "dinner":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-sedentary-muscle_gain-nonVeg",
+        "breakfast": [
+            "2 boiled eggs",
+            "2 slices of whole grain bread",
+            "1 tablespoon of almond butter",
+            "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled salmon or lean beef (6-8 ounces)",
+            "1 cup of roasted sweet potatoes or quinoa",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-sedentary-muscle_gain-veg",
+        "breakfast": [
+            "1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+            "1/2 cup of rolled oats with almond milk",
+            "1 tablespoon of ground flaxseed",
+            "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked tofu or tempeh",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-above_50-sedentary-weight_loss-nonVeg",
+        "breakfast": ["2 boiled eggs",
+                        "2 slices of whole grain toast",
+                        "1 small avocado",
+                        "1 medium-sized apple"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled salmon or lean beef (6-8 ounces)",
+            "1 cup of roasted sweet potatoes or quinoa",
+            "1 cup of steamed vegetables (spinach, kale, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-sedentary-weight_loss-veg",
+        "breakfast": ["1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+                        "1/2 cup of rolled oats with almond milk",
+                        "1 tablespoon of ground flaxseed",
+                        "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked tofu or tempeh",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ]
+    },
+    {
+        "name": "male-above_50-active-muscle_gain-nonVeg",
+        "breakfast": [
+            "2 boiled eggs",
+            "2 slices of whole grain toast",
+            "1 small avocado",
+            "1 medium-sized apple"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled chicken thigh or lean beef (6-8 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of steamed vegetables (spinach, broccoli, asparagus, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-active-muscle_gain-veg",
+        "breakfast": ["1 cup of Greek yogurt or a plant-based yogurt alternative with added protein",
+                   " 1/2 cup of rolled oats with almond milk",
+                    "1 tablespoon of chia seeds",
+                   " 1 small handful of mixed berries",
+                    "1 tablespoon of almond butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 cup of black beans or kidney beans",
+           "1/2 cup of diced tofu or tempeh",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-active-weight_loss-nonVeg",
+        "breakfast": ["2 boiled eggs",
+                    "2 slices of whole grain toast",
+                    "1 small avocado",
+                    "1 cup of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, kale, etc.)",
+            "1/2 cup of cherry tomatoes",
+            "1/4 cup of sliced cucumbers",
+            "1 tablespoon of olive oil and balsamic vinegar for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled chicken thigh or lean beef (6-8 ounces)",
+            "1 cup of mixed vegetables (zucchini, cauliflower, mushrooms, etc.)",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "male-above_50-active-weight_loss-veg",
+        "breakfast": ["1 cup of cooked steel-cut oats with almond milk",
+                        "1 tablespoon of chia seeds",
+                        "1 small handful of mixed berries",
+                        "1 tablespoon of almond butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+           " 1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1/2 cup of black beans or chickpeas",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of carrot sticks",
+            "2 tablespoons of hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-sedentary-muscle_gain-nonVeg",
+        "breakfast": [
+                        "2 scrambled eggs",
+                        "2 slices of whole wheat toast",
+                        "1 small avocado",
+                        "1 cup of mixed berries"
+                                ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small orange or a handful of grapes"
+
+        ],
+        "dinner":[
+           " 1 scoop of whey protein powder mixed with water or milk",
+            "1 medium-sized banana",
+            "1 tablespoon of almond butter or peanut butter"
+
+        ]
+    },
+    {
+        "name": "female-20_30-sedentary-muscle_gain-veg",
+        "breakfast": [
+            "1 cup of cooked oats with almond milk or soy milk",
+            "1 tablespoon of chia seeds",
+           " 1 small handful of mixed berries",
+            "1 tablespoon of almond butter or peanut butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1/2 cup of black beans or chickpeas",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled tofu or tempeh (6-8 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of roasted vegetables (sweet potatoes, zucchini, bell peppers, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-sedentary-weight_loss-nonVeg",
+        "breakfast": [
+            "2 boiled eggs",
+            "2 slices of whole wheat toast",
+            "1 small avocado",
+            "1 cup of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/2 cup of cherry tomatoes",
+            "1/4 cup of sliced cucumbers",
+            "1/4 cup of sliced bell peppers",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled salmon or lean beef (6-8 ounces)",
+            "1 cup of steamed broccoli or green beans",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-sedentary-weight_loss-veg",
+        "breakfast": [
+                    "1 cup of cooked oats with almond milk or soy milk",
+                    "1 tablespoon of chia seeds",
+                    "1 small handful of mixed berries",
+                    "1 tablespoon of almond butter or peanut butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1/2 cup of chickpeas or black beans",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled tofu or tempeh (6-8 ounces)",
+            "1 cup of roasted vegetables (sweet potatoes, zucchini, bell peppers, etc.)",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-active-muscle_gain-nonVeg",
+        "breakfast": [
+            "2 scrambled eggs",
+            "2 slices of whole wheat toast",
+            "1 small avocado",
+            "1 cup of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast or lean turkey breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/2 cup of cherry tomatoes",
+            "1/4 cup of sliced cucumbers",
+            "1/4 cup of sliced bell peppers",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled chicken or turkey breast (4-6 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of steamed vegetables (broccoli, asparagus, green beans, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-active-muscle_gain-veg",
+        "breakfast": [
+                "1 cup of cooked oats with almond milk or soy milk",
+                "1 tablespoon of chia seeds",
+                "1 small handful of mixed berries",
+                "1 tablespoon of almond butter or peanut butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts"
+        ],
+        "lunch":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1/2 cup of chickpeas or black beans",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled tofu or tempeh (6-8 ounces)",
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of steamed vegetables (broccoli, asparagus, green beans, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-active-weight_loss-nonVeg",
+        "breakfast": [
+                    "1 boiled egg",
+                    "1 slice of whole wheat toast",
+                    "1/4 avocado",
+                    "1 small handful of baby spinach",
+                    "1/2 cup of sliced strawberries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/4 cup of cherry tomatoes",
+            "1/4 cup of sliced cucumbers",
+            "1/4 cup of sliced bell peppers",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+
+        ],
+        "dinner":[
+            "Grilled chicken or turkey breast (4-6 ounces)",
+            "1 cup of roasted vegetables (zucchini, bell peppers, carrots, etc.)",
+            "1/2 cup of sweet potato or butternut squash",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-20_30-active-weight_loss-veg",
+        "breakfast": [
+                    "1 cup of oatmeal with almond milk",
+                    "1 tablespoon of chia seeds",
+                    "1 small handful of mixed berries",
+                    "1 tablespoon of almond butter or peanut butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small apple or a handful of grapes"
+        ],
+        "lunch":[
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1/4 cup of chickpeas or black beans",
+            "1/4 cup of diced cucumber",
+            "1/4 cup of cherry tomatoes",
+            "1/4 cup of sliced bell peppers",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small handful of mixed nuts"
+
+        ],
+        "dinner":[
+            "1 cup of stir-fried vegetables (broccoli, bell peppers, zucchini, etc.) with tofu or tempeh",
+            "1/2 cup of cooked lentils or chickpeas",
+            "1/2 cup of quinoa or brown rice",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-30_50-sedentary-muscle_gain-nonVeg",
+        "breakfast": [
+                "2 boiled eggs",
+                "1 slice of whole wheat toast",
+                "1/4 avocado",
+                "1 small handful of baby spinach",
+               "1/2 cup of sliced strawberries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast (4-6 ounces)",
+            "1 cup of mixed greens (spinach, lettuce, arugula, etc.)",
+            "1/4 cup of cherry tomatoes",
+            "1/4 cup of sliced cucumbers",
+            "1/4 cup of sliced bell peppers",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "Greek yogurt or cottage cheese with added protein",
+            "1 small apple or a handful of grapes"
+        ],
+        "dinner":[
+            "Grilled chicken or turkey breast (4-6 ounces)",
+            "1 cup of stir-fried vegetables (broccoli, bell peppers, zucchini, etc.)",
+            "1/2 cup of sweet potato or butternut squash",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    {
+        "name": "female-30_50-sedentary-muscle_gain-veg",
+        "breakfast": [
+                    "1 cup of cooked quinoa or oats",
+                    "1 cup of Greek yogurt or a plant-based alternative",
+                    "1 small handful of mixed berries",
+                    "1 tablespoon of almond butter or peanut butter"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1/2 cup of brown rice or whole wheat pasta",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.)",
+            "1/4 cup of feta cheese or a plant-based alternative",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small apple or a handful of grapes",
+            "2 boiled eggs or a plant-based protein source"
+        ],
+        "dinner":[
+            "1 cup of black beans or kidney beans",
+            "1/2 cup of quinoa or brown rice",
+            "1 cup of stir-fried vegetables (spinach, mushrooms, zucchini, etc.)",
+            "1/4 cup of shredded cheese or a plant-based alternative",
+            "1 tablespoon of olive oil or avocado for dressing"
+
+        ]
+    },
+    
+    {
+        "name": "female-30_50-sedentary-weight_loss-veg",
+        "breakfast": [
+                    "1 small bowl of oatmeal with almond milk or soy milk",
+                    "1 tablespoon of chia seeds",
+                    "1 small handful of mixed berries",
+                    "1 teaspoon of honey or maple syrup (optional)"
+                    ],
+        "mid_morning_snack": [
+            
+            "1 small apple or a handful of grapes"
+        ],
+        "lunch":[
+            "1 small whole wheat wrap filled with mixed vegetables (lettuce, cucumber, tomato, bell peppers, etc.)",
+            "1/2 cup of hummus or a bean spread",
+            "1 small side salad with a lemon-tahini dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small handful of almonds or walnuts"
+        ],
+        "dinner":[
+            "1 cup of mixed vegetables stir-fried with tofu or tempeh",
+            "1/2 cup of quinoa or brown rice",
+            "1 small side salad with a light vinaigrette dressing"
+        ]
+    },
+    {
+        "name": "female-30_50-active-muscle_gain-nonVeg",
+        "breakfast": [
+                    "2 boiled eggs",
+                    "1 slice of whole wheat toast",
+                    "1 tablespoon of peanut butter",
+                    "1 small bowl of Greek yogurt with berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews"
+        ],
+        "lunch":[
+            "Grilled chicken breast or salmon fillet",
+            "1 cup of cooked quinoa or brown rice",
+            "Steamed vegetables (broccoli, carrots, cauliflower, etc.)"
+        ],
+        "Afternoon Snack":[
+            "1 small can of tuna or a boiled egg",
+            "1 medium-sized apple or banana"
+
+        ],
+        "dinner":[
+            "Grilled lean steak or baked chicken breast",
+            "1 small baked sweet potato or quinoa",
+            "Grilled vegetables (zucchini, bell peppers, mushrooms, etc.)"
+
+        ]
+    },
+    {
+        "name": "female-30_50-active-muscle_gain-veg",
+        "breakfast": [
+            "1 cup of cooked quinoa or steel-cut oats",
+            "1 scoop of plant-based protein powder",
+            "1 tablespoon of almond butter or peanut butter",
+            "1 small handful of mixed berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or cashews",
+            "1 medium-sized apple or banana"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1 cup of mixed vegetables (broccoli, bell peppers, carrots, etc.) stir-fried with tofu or tempeh",
+            "1 small side salad with a light vinaigrette dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small can of chickpeas roasted with olive oil and spices",
+            "1 small handful of cherry tomatoes or baby carrots"
+
+        ],
+        "dinner":[
+            "1 cup of cooked quinoa or brown rice",
+            "Grilled tofu or tempeh",
+            "Steamed or roasted vegetables (asparagus, zucchini, cauliflower, etc.)"
+
+        ]
+    },
+    {
+        "name": "female-30_50-active-weight_loss-nonVeg",
+        "breakfast": [
+                    "2 scrambled eggs or egg whites",
+                    "1 slice of whole grain toast",
+                    "1 small avocado",
+                    "1 cup of mixed berries"
+
+                    ],
+        "mid_morning_snack": [
+           "1 small handful of almonds or walnuts",
+            "1 medium-sized apple or pea"
+        ],
+        "lunch":[
+            "Grilled chicken breast or turkey breast (4-6 ounces)",
+            "1 cup of mixed vegetables (broccoli, spinach, bell peppers, etc.)",
+            "1/2 cup of brown rice or quinoa"
+        ],
+        "Afternoon Snack":[
+            "1 small can of tuna in water or a boiled egg",
+            "1 small handful of baby carrots or cherry tomatoes"
+        ],
+        "dinner":[
+            "Grilled salmon or lean steak (4-6 ounces)",
+           " 1 cup of roasted vegetables (asparagus, Brussels sprouts, cauliflower, etc.)",
+            "1 small side salad with a light vinaigrette dressing"
+
+        ]
+    },
+    {
+        "name": "female-30_50-active-weight_loss-veg",
+        "breakfast": [
+            "1 cup of cooked steel-cut oats or quinoa",
+            "1 tablespoon of almond butter or chia seeds",
+            "1 small banana or a handful of mixed berries",
+            "1 cup of unsweetened almond milk or soy milk"
+                                ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts or seeds",
+            "1 medium-sized apple or pear"
+        ],
+        "lunch":[
+            "1 cup of mixed greens (spinach, kale, lettuce, etc.) with cherry tomatoes and cucumbers",
+            "1/2 cup of cooked chickpeas or black beans",
+            "1/4 cup of feta cheese or tofu cubes",
+           "1 tablespoon of olive oil and lemon juice as a dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small Greek yogurt or a low-fat yogurt with berries",
+            "1 small handful of baby carrots or celery sticks"
+
+        ],
+        "dinner":[
+            "1 cup of cooked quinoa or brown rice",
+            "1 cup of mixed roasted vegetables (broccoli, cauliflower, bell peppers, etc.)",
+            "1/4 cup of shredded cheese or tofu cubes"
+
+        ]
+    },
+    {
+        "name": "female-above_50-sedentary-muscle_gain-nonVeg",
+        "breakfast": [
+            "2 boiled eggs or 1 serving of egg whites",
+            "1 slice of whole wheat toast or 1/2 cup of cooked oatmeal",
+            "1 tablespoon of peanut butter or almond butter",
+            "1 small apple or a handful of berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts or seeds",
+            "1 medium-sized orange or a small banana"
+        ],
+        "lunch":[
+            "4-6 ounces of grilled chicken breast or lean turkey breast",
+            "1/2 cup of cooked quinoa or brown rice",
+            "1 cup of steamed vegetables (broccoli, carrots, cauliflower, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small Greek yogurt or a low-fat yogurt with a handful of almonds or walnuts",
+            "1 small carrot or cucumber with hummus"
+
+        ],
+        "dinner":[
+            "4-6 ounces of grilled salmon or lean beef",
+            "1/2 cup of sweet potatoes or quinoa",
+            "1 cup of roasted vegetables (asparagus, zucchini, bell peppers, etc.)",
+            "1 tablespoon of olive oil or coconut oil for cooking"
+
+        ]
+    },
+    {
+        "name": "female-above_50-sedentary-muscle_gain-veg",
+        "breakfast": [
+            "1 cup of cooked steel-cut oats or quinoa",
+            "1 tablespoon of almond butter or peanut butter",
+            "1 tablespoon of chia seeds or ground flaxseeds",
+            "1 medium-sized banana or a handful of berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts or seeds",
+            "1 medium-sized apple or a small orange"
+        ],
+        "lunch":[
+            "1 cup of cooked lentils or chickpeas",
+            "1/2 cup of cooked brown rice or quinoa",
+            "1 cup of steamed vegetables (broccoli, cauliflower, carrots, etc.)",
+            "1 tablespoon of olive oil or avocado for dressing"
+        ],
+        "Afternoon Snack":[
+            "1 small Greek yogurt or a low-fat yogurt with a handful of almonds or walnuts",
+            "1 small carrot or cucumber with hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked quinoa or whole wheat pasta",
+            "4-6 ounces of grilled tofu or tempeh",
+            "1 cup of roasted vegetables (asparagus, zucchini, bell peppers, etc.)",
+            "1 tablespoon of olive oil or coconut oil for cooking"
+
+        ]
+    },
+    {
+        "name": "female-above_50-active-weight_loss-nonVeg",
+        "breakfast": [
+            "1 boiled egg or 1 serving of egg whites",
+            "1 slice of whole wheat toast or 1/2 cup of cooked oatmeal",
+            "1 tablespoon of almond butter or avocado spread",
+            "1 small orange or a handful of grapes"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of almonds or walnuts",
+            "1 medium-sized apple or a small banana"
+        ],
+        "lunch":[
+            "3-4 ounces of grilled chicken breast or fish (salmon, tilapia, etc.)",
+            "1 cup of mixed salad greens with cherry tomatoes, cucumber, and bell peppers",
+            "1 tablespoon of olive oil or vinaigrette dressing",
+            "1 small whole grain pita or a slice of whole wheat bread"
+        ],
+        "Afternoon Snack":[
+            "1 small Greek yogurt or a low-fat yogurt with a handful of blueberries or raspberries"
+
+        ],
+        "dinner":[
+            "4-6 ounces of grilled chicken breast or lean beef",
+            "1/2 cup of quinoa or brown rice",
+            "1 cup of steamed vegetables (broccoli, cauliflower, zucchini, etc.)",
+            "1 tablespoon of olive oil or coconut oil for cooking"
+        ]
+    },
+    {
+        "name": "female-above_50-active-weight_loss-veg",
+        "breakfast": [
+            "1 cup of cooked oats or quinoa",
+            "1 tablespoon of chia seeds or flaxseeds",
+            "1 cup of almond milk or soy milk",
+            "1 small apple or a handful of berries"
+                    ],
+        "mid_morning_snack": [
+            "1 small handful of mixed nuts or seeds",
+            "1 medium-sized orange or a small banana"
+        ],
+        "lunch":[
+            "1 cup of mixed salad greens (spinach, lettuce, kale, etc.)",
+            "1/2 cup of chickpeas or lentils",
+            "1/4 cup of crumbled feta cheese or tofu",
+            "1 tablespoon of olive oil and lemon juice for dressing",
+            "1 small whole grain pita bread or a slice of whole wheat bread"
+        ],
+        "Afternoon Snack":[
+            "1 small Greek yogurt or a low-fat yogurt with a handful of almonds or walnuts",
+            "1 small carrot or cucumber with hummus"
+
+        ],
+        "dinner":[
+            "1 cup of cooked quinoa or brown rice",
+            "1/2 cup of black beans or kidney beans",
+            "1 cup of roasted vegetables (asparagus, zucchini, bell peppers, etc.)",
+            "1 tablespoon of olive oil or coconut oil for cooking"
+
+        ]
+    }
+      
+]

@@ -1,0 +1,236 @@
+{% extends 'base.html' %}
+
+{% block body %}
+		<!-- end:fh5co-header -->
+		<div class="fh5co-hero">
+			<div class="fh5co-overlay"></div>
+			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url({{ url_for('static', filename='images/home-image1.jpg') }});">
+				<div class="desc animate-box">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-7">
+								<h2>Fitness &amp; Health <br>is a <b>Mentality</b></h2>
+								<p><span>Find Your Workout Plan & Diet Plan</span></p>
+								<span><a class="btn btn-primary" href="#">Start Your Journey</a></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end:fh5co-hero -->
+		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="heading-section text-center animate-box">
+							<h2>Get AI Recommendation Workout Plan</h2>
+							<p>Get your dream body with our AI-powered application, designed to help you achieve your fitness goals faster than ever before!</p>
+						</div>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div>
+						<form method="post" action="/predict">
+							<label for="gender">What is your gender?</label>
+							<select id="gender" name="gender">
+								<option value="Male">Male</option>
+								<option value="Female">Female</option>
+							</select>
+
+							<label for="age">What is your age?</label>
+							<input type="text" id="age" name="age" placeholder="Your Age..">
+
+							<!-- <label for="height">What is your height(Cm)?</label>
+							<input type="text" id="height" name="height" placeholder="Your height..">
+
+							<label for="weight">What is your weight(Kg)?</label>
+							<input type="text" id="weight" name="weight" placeholder="Your weight.."> -->
+
+
+							<label for="fitness">What is your current fitness level?</label>
+							<select id="fitness" name="fitness">
+								<option value="Beginner">Beginner</option>
+								<option value="Intermediate">Intermediate</option>
+								<option value="Advanced">Advanced</option>
+							</select>
+
+							<label for="group">What is your Target Muscle Group?</label>
+							<select id="group" name="group">
+								<option value="fullbody">Fullbody</option>
+								<option value="arm">Arms</option>
+								<option value="chest">Chest</option>
+								<option value="abs">Abs</option>
+								<option value="legs">Legs</option>
+
+								<!-- <option value="FullBody">Fullbody</option>
+								<option value="ArmsShoulders">Arms Shoulders</option>
+								<option value="Core">Core</option>
+								<option value="ChestBack">Chest Back</option>
+								<option value="Legs">Legs</option> -->
+							</select>
+
+							<label for="goal">What is your primary fitness goal?</label>
+							<select id="goal" name="goal">
+								<option value="loss_weight">Loss Weight</option>
+								<option value="MuscleGain">Build Muscle</option>
+								<!-- <option value="Toning">Toning</option> -->
+							</select>
+
+							<label for="day">How many days a week are you able to work out?</label>
+							<select id="day" name="day">
+								
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+								<option value="6">6</option>
+							</select>
+
+							<label for="location">What is your preferred workout location?</label>
+							<select id="location" name="location">
+								<option value="gym">Gym</option>
+								<option value="home">Home</option>
+								<!-- <option value="Outdoor">Outdoor</option> -->
+							</select>
+							{%if session["name"]%}
+							<input type="submit" value="Get Recomendation">
+							
+							{% else %}
+							<input type="submit" value="Get Recomendation" disabled>
+							
+
+							{%endif%}
+
+						  
+						</form>
+					  </div>
+
+					  
+					
+				</div>
+				{% if file %}
+				<div class="row" style="margin-top: 100px;">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="heading-section text-center animate-box">
+								<h2>Congratulation!!</h2>
+								<p>Get your dream body with our AI-powered application, designed to help you achieve your fitness goals faster than ever before!</p>
+							</div>
+						</div>
+					</div>
+					<a href="{{ url_for('plan', filename=file) }}">
+				
+						<div class="col-md-6 col-sm-6" style="display: block; margin-left: 250px;">
+							<div class="team-section-grid animate-box" style="background-image: url({{ url_for('static',filename='images/'+ image)}});">
+								<div class="overlay-section">
+									<div class="desc">
+										<h3>Here You Got!! </h3>
+										<span>Recomendated Workout Plan</span>
+										<p>Click here to go through the plan</p>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+				{% endif %}
+			</div>
+		</div>
+		<div class="fh5co-parallax" style="background-image: url({{ url_for('static',filename='images/1.jpg')}});" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
+						<div class="fh5co-intro fh5co-table-cell animate-box">
+							<h1 class="text-center">"Let food be thy medicine and medicine be thy food"</h1>
+							<p>- Hippocrates</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end: fh5co-parallax -->
+	
+		<div id="fh5co-team-section" class="fh5co-lightgray-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="heading-section text-center animate-box">
+							<h2>Meet Our Trainers</h2>
+							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-4 col-sm-6">
+						<div class="team-section-grid animate-box" style="background-image: url({{ url_for('static',filename='images/trainer-1.jpg')}});">
+							<div class="overlay-section">
+								<div class="desc">
+									<h3>John Doe</h3>
+									<span>Body Trainer</span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+									<p class="fh5co-social-icons">
+										<a href="#"><i class="icon-twitter-with-circle"></i></a>
+										<a href="#"><i class="icon-facebook-with-circle"></i></a>
+										<a href="#"><i class="icon-instagram-with-circle"></i></a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="team-section-grid animate-box" style="background-image: url({{ url_for('static',filename='images/trainer-2.jpg')}});">
+							<div class="overlay-section">
+								<div class="desc">
+									<h3>James Smith</h3>
+									<span>Swimming Trainer</span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+									<p class="fh5co-social-icons">
+										<a href="#"><i class="icon-twitter-with-circle"></i></a>
+										<a href="#"><i class="icon-facebook-with-circle"></i></a>
+										<a href="#"><i class="icon-instagram-with-circle"></i></a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="team-section-grid animate-box" style="background-image: url({{ url_for('static',filename='images/trainer-3.jpg')}});">
+							<div class="overlay-section">
+								<div class="desc">
+									<h3>John Doe</h3>
+									<span>Chief Executive Officer</span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="fh5co-social-icons">
+										<a href="#"><i class="icon-twitter-with-circle"></i></a>
+										<a href="#"><i class="icon-facebook-with-circle"></i></a>
+										<a href="#"><i class="icon-instagram-with-circle"></i></a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="fh5co-parallax" style="background-image: url({{ url_for('static',filename='images/home-image-2.jpg')}});" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 fh5co-table">
+						<div class="fh5co-intro fh5co-table-cell box-area">
+							<div class="animate-box">
+								<h1>“The body achieves what the mind believes.”</h1>
+								<p>Pay now and get 25% Discount</p>
+								<a href="#" class="btn btn-primary">Become A Member</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end: fh5co-parallax -->
+		
+{% endblock %}

@@ -1,0 +1,116 @@
+
+{% extends 'base.html' %}
+
+{% block body %}
+        <div class="fh5co-hero">
+            <div class="fh5co-overlay"></div>
+            <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url({{ url_for('static', filename='images/home-image-2.jpg') }});">
+                <div class="desc animate-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <h2>The greatest <b>wealth</b> is <b>Health</b></h2>
+                                <p><span>Find Your Diet Plan</span></p>
+                                <span><a class="btn btn-primary" href="#">Start</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		<!-- end:fh5co-hero -->
+		<div id="fh5co-schedule-section" class="fh5co-lightgray-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="heading-section text-center animate-box">
+							<h2>Get AI Recommendation Diet Plan</h2>
+							<p>Get your dream body with our AI-powered application, designed to help you achieve your fitness goals faster than ever before!</p>
+						</div>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div>
+						<form method="post" action="/predictdiet">
+							<label for="gender">What is your gender?</label>
+							<select id="gender" name="gender">
+								<option value="male">Male</option>
+								<option value="female">Female</option>
+							</select>
+
+							<label for="age">What is your age?</label>
+							<select id="age" name="age">
+								<option value="20_30">20-30</option>
+								<option value="30_50">30-50</option>above_50
+								<option value="above_50">Above 50</option>
+							</select>
+
+							<label for="activity">What is your current Activity level?</label>
+							<select id="activity" name="activity">
+								<option value="sedentary">Sedentary</option>
+								<option value="active">Active</option>
+					
+							</select>
+
+							<label for="goal">What is your primary  goal?</label>
+							<select id="goal" name="goal">
+								<option value="weight_loss">Loss Weight</option>
+								<option value="muscle_gain">Muscle Gain</option>
+							</select>
+
+							<label for="restriction">What are your dietary restrictions?</label>
+							<select id="restriction" name="restriction">
+								<option value="nonVeg">Non Vegitarian</option>
+								<option value="veg">Vegitarian</option>
+							
+							</select>
+
+							<label for="bmi">What is your BMI Level?</label>
+							<select id="bmi" name="bmi">
+								<option value="underweight">Underweight: BMI less than 18.5</option>
+								<option value="normalweight">Normal weight: BMI between 18.5 and 24.9</option>
+								<option value="overweight">Overweight: BMI between 25 and 29.9</option>
+								<option value="obese">Obese: BMI of 30 or higher</option>
+							</select>
+
+						  <input type="submit" value="Get Diet Recomendation">
+						</form>
+					  </div>
+
+				</div>
+				{% if file %}
+				<div class="row" style="margin-top: 100px;">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="heading-section text-center animate-box">
+								<h2>Congratulation!!</h2>
+								<p>Get your dream body with our AI-powered application, designed to help you achieve your fitness goals faster than ever before!</p>
+							</div>
+						</div>
+					</div>
+					<a href="{{ url_for('getdietplan', filename=file) }}">
+				
+						<div class="col-md-6 col-sm-6" style="display: block; margin-left: 250px;">
+							<div class="team-section-grid animate-box" style="background-image: url({{ url_for('static',filename='images/'+ image)}});">
+								<div class="overlay-section">
+									<div class="desc">
+										<h3>Here You Got!! </h3>
+										<span>Recomendated Diet Plan</span>
+										<p>Click here to go through the plan</p>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+				{% endif %}
+
+			</div>
+		</div>
+
+		
+{% endblock %}
+		

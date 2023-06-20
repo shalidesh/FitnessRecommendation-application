@@ -1,0 +1,77 @@
+
+{% extends 'base.html' %}
+
+{% block body %}
+		
+		<div class="fh5co-parallax" style="background-image: url({{ url_for('static', filename='images/home-image-41.jpg') }});" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
+						<div class="fh5co-intro fh5co-table-cell animate-box">
+							<h1 class="text-center">BMI Calculator</h1>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div id="fh5co-schedule-section" class="fh5co-lightgray-section">
+			<div class="container">
+				
+				<div class="row animate-box">
+					<div>
+						<form method="post" action="/bmi/calculate">
+							<label for="gender">What is your gender?</label>
+							<select id="gender" name="gender">
+								<option value="male">Male</option>
+								<option value="female">Female</option>
+							</select>
+
+							<label for="age">What is your age?</label>
+							<select id="age" name="age">
+								<option value="20_30">20-30</option>
+								<option value="30_50">30-50</option>above_50
+								<option value="above_50">Above 50</option>
+							</select>
+
+							<label for="height">What is your Height(cm)?</label>
+                            <input type="text" id="height" name="height" placeholder="Your height..">
+							
+
+							<label for="weight">What is your Weight(Kg)?</label>
+                            <input type="text" id="weight" name="weight" placeholder="Your weight..">
+							
+						  <input type="submit" value="Calculate">
+						</form>
+					  </div>
+
+				</div>
+				{% if bmi %}
+				<div class="row" style="margin-top: 100px;">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<div class="heading-section text-center animate-box">
+								<h2>Your BMI Value Is a {{bmi}}</h2>
+								<p>Your Weight category is a {{weight_category}}</p>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+				{% endif %}
+
+			</div>
+		</div>
+        
+       
+
+		
+{% endblock %}
+
+
+
+
+
+		

@@ -1,0 +1,193 @@
+Dataset 
+
+| Sample | Gender | Age | Fitness Level | Target Muscle Group | Fitness Goal | Days Per Week | Workout Location |
+|--------|--------|-----|---------------|---------------------|--------------|---------------|-----------------|
+| 1      | Male   | 30  | Intermediate  | Legs                | Weight Loss  | 4             | Gym             |
+| 2      | Female | 45  | Beginner      | Arms, Shoulders     | Toning       | 3             | Home            |
+| 3      | Male   | 55  | Advanced      | Full Body           | Muscle Gain  | 5             | Gym             |
+| 4      | Female | 28  | Intermediate  | Core                | Weight Loss  | 6             | Outdoor         |
+| 5      | Male   | 38  | Beginner      | Chest, Back         | Toning       | 2             | Gym             |
+| 6      | Female | 42  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 7      | Male   | 32  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 8      | Female | 50  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 9      | Male   | 35  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 10     | Female | 27  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 11     | Male   | 33  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 12     | Female | 43  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 13     | Male   | 29  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 14     | Female | 48  | Beginner      | Core                | Toning       | 3             | Home            |
+| 15     | Male   | 37  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 16     | Female | 31  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 17     | Male   | 46  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 18     | Female | 26  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 19     | Male   | 51  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 20     | Female | 34  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 21     | Male   | 39  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 22     | Female | 29  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 23     | Male   | 43  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 24     | Female | 47  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym            
+
+ |
+| 25     | Male   | 32  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 26     | Female | 36  | Beginner      | Core                | Toning       | 3             | Home            |
+| 27     | Male   | 52  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 28     | Female | 30  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 29     | Male   | 44  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 30     | Female | 25  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 31     | Male   | 37  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 32     | Female | 49  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 33     | Male   | 34  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 34     | Female | 28  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 35     | Male   | 45  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 36     | Female | 39  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 37     | Male   | 31  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 38     | Female | 52  | Beginner      | Core                | Toning       | 3             | Home            |
+| 39     | Male   | 36  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 40     | Female | 44  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 41     | Male   | 30  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 42     | Female | 48  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 43     | Male   | 37  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 44     | Female | 31  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 45     | Male   | 45  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 46     | Female | 29  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 47     | Male   | 50  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 48     | Female | 35  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 49     | Male   | 42  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 50     | Female | 27  | Beginner      | Core                | Toning       | 3
+
+             | Home            |
+| 51     | Male   | 38  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 52     | Female | 43  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 53     | Male   | 32  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 54     | Female | 51  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 55     | Male   | 29  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 56     | Female | 36  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 57     | Male   | 47  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 58     | Female | 30  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 59     | Male   | 40  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 60     | Female | 34  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 61     | Male   | 46  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 62     | Female | 33  | Beginner      | Core                | Toning       | 3             | Home            |
+| 63     | Male   | 53  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 64     | Female | 31  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 65     | Male   | 41  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 66     | Female | 26  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 67     | Male   | 48  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 68     | Female | 37  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 69     | Male   | 32  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 70     | Female | 29  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 71     | Male   | 50  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 72     | Female | 35  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 73     | Male   | 42  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 74     | Female | 27  | Beginner      | Core                | Toning       | 3             | Home            |
+| 75     | Male   | 38  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 76     | Female | 43  | Advanced      | Arms, Shoulders     |
+
+ Weight Loss  | 6             | Outdoor         |
+| 77     | Male   | 31  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 78     | Female | 51  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 79     | Male   | 29  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 80     | Female | 36  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 81     | Male   | 47  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 82     | Female | 30  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 83     | Male   | 40  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 84     | Female | 34  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 85     | Male   | 46  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 86     | Female | 33  | Beginner      | Core                | Toning       | 3             | Home            |
+| 87     | Male   | 53  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 88     | Female | 31  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+| 89     | Male   | 41  | Beginner      | Chest, Back         | Toning       | 3             | Gym             |
+| 90     | Female | 26  | Intermediate  | Legs                | Muscle Gain  | 4             | Home            |
+| 91     | Male   | 48  | Advanced      | Full Body           | Weight Loss  | 5             | Gym             |
+| 92     | Female | 37  | Beginner      | Arms, Shoulders     | Toning       | 3             | Outdoor         |
+| 93     | Male   | 32  | Intermediate  | Core                | Muscle Gain  | 4             | Gym             |
+| 94     | Female | 29  | Advanced      | Legs                | Weight Loss  | 6             | Home            |
+| 95     | Male   | 50  | Beginner      | Chest, Back         | Toning       | 3             | Outdoor         |
+| 96     | Female | 35  | Intermediate  | Arms, Shoulders     | Muscle Gain  | 4             | Gym             |
+| 97     | Male   | 42  | Advanced      | Full Body           | Weight Loss  | 5             | Outdoor         |
+| 98     | Female | 27  | Beginner      | Core                | Toning       | 3             | Home            |
+| 99     | Male   | 38  | Intermediate  | Legs                | Muscle Gain  | 4             | Gym             |
+| 100    | Female | 43  | Advanced      | Arms, Shoulders     | Weight Loss  | 6             | Outdoor         |
+
+
+| Sample | Gender | Age | Fitness Level  | Target Muscle Group | Fitness Goal | Days Per Week | Workout Location |
+| ------ | ------ | --- | -------------- | ------------------- | ------------ | ------------- | ---------------- |
+| 101    | Male   | 32  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 102    | Female | 35  | Intermediate  | Arms, Shoulders     | Toning       | 4             | Home             |
+| 103    | Male   | 40  | Advanced      | Legs                | Muscle Gain  | 5             | Gym              |
+| 104    | Female | 28  | Beginner      | Core                | Weight Loss  | 3             | Outdoor          |
+| 105    | Male   | 33  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 106    | Female | 30  | Advanced      | Legs                | Muscle Gain  | 5             | Home             |
+| 107    | Male   | 45  | Beginner      | Full Body           | Weight Loss  | 3             | Outdoor          |
+| 108    | Female | 38  | Intermediate  | Arms, Shoulders     | Toning       | 4             | Gym              |
+| 109    | Male   | 31  | Advanced      | Core                | Muscle Gain  | 5             | Home             |
+| 110    | Female | 29  | Beginner      | Legs                | Weight Loss  | 3             | Gym              |
+| 111    | Male   | 42  | Intermediate  | Chest, Back         | Toning       | 4             | Outdoor          |
+| 112    | Female | 33  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Home             |
+| 113    | Male   | 36  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 114    | Female | 41  | Intermediate  | Core                | Toning       | 4             | Outdoor          |
+| 115    | Male   | 39  | Advanced      | Legs                | Muscle Gain  | 5             | Gym              |
+| 116    | Female | 27  | Beginner      | Arms, Shoulders     | Weight Loss  | 3             | Home             |
+| 117    | Male   | 34  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 118    | Female | 31  | Advanced      | Core                | Muscle Gain  | 5             | Outdoor          |
+| 119    | Male   | 44  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 120    | Female | 37  | Intermediate  | Legs                | Toning       | 4             | Home             |
+| 121    | Male   | 30  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Gym              |
+| 122    | Female | 26  | Beginner      | Core                | Weight Loss  | 3             | Outdoor          |
+| 123    | Male   | 35  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 124    | Female | 29  | Advanced      | Legs                | Muscle Gain  | 5             | Home            
+
+ |
+| 125    | Male   | 43  | Beginner      | Full Body           | Weight Loss  | 3             | Outdoor          |
+| 126    | Female | 38  | Intermediate  | Arms, Shoulders     | Toning       | 4             | Gym              |
+| 127    | Male   | 31  | Advanced      | Core                | Muscle Gain  | 5             | Home             |
+| 128    | Female | 32  | Beginner      | Legs                | Weight Loss  | 3             | Gym              |
+| 129    | Male   | 41  | Intermediate  | Chest, Back         | Toning       | 4             | Outdoor          |
+| 130    | Female | 33  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Home             |
+| 131    | Male   | 37  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 132    | Female | 42  | Intermediate  | Core                | Toning       | 4             | Outdoor          |
+| 133    | Male   | 36  | Advanced      | Legs                | Muscle Gain  | 5             | Gym              |
+| 134    | Female | 30  | Beginner      | Arms, Shoulders     | Weight Loss  | 3             | Home             |
+| 135    | Male   | 39  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 136    | Female | 28  | Advanced      | Core                | Muscle Gain  | 5             | Outdoor          |
+| 137    | Male   | 34  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 138    | Female | 31  | Intermediate  | Legs                | Toning       | 4             | Home             |
+| 139    | Male   | 45  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Gym              |
+| 140    | Female | 37  | Beginner      | Core                | Weight Loss  | 3             | Outdoor          |
+| 141    | Male   | 29  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 142    | Female | 33  | Advanced      | Legs                | Muscle Gain  | 5             | Home             |
+| 143    | Male   | 38  | Beginner      | Full Body           | Weight Loss  | 3             | Outdoor          |
+| 144    | Female | 40  | Intermediate  | Arms, Shoulders     | Toning       | 4             | Gym              |
+| 145    | Male   | 32  | Advanced      | Core                | Muscle Gain  | 5             | Home             |
+| 146    | Female | 35  | Beginner      | Legs                | Weight Loss  | 3             | Gym              |
+| 147    | Male   | 44  | Intermediate  | Chest, Back         | Toning       | 4             | Outdoor          |
+| 148    | Female | 36  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Home             |
+| 149    | Male   | 30  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 150    | Female | 29  | Intermediate  | Core                | Toning       | 4
+
+             | Outdoor          |
+| 151    | Male   | 41  | Advanced      | Legs                | Muscle Gain  | 5             | Gym              |
+| 152    | Female | 33  | Beginner      | Arms, Shoulders     | Weight Loss  | 3             | Home             |
+| 153    | Male   | 37  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 154    | Female | 30  | Advanced      | Core                | Muscle Gain  | 5             | Outdoor          |
+| 155    | Male   | 35  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 156    | Female | 41  | Intermediate  | Legs                | Toning       | 4             | Home             |
+| 157    | Male   | 32  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Gym              |
+| 158    | Female | 28  | Beginner      | Core                | Weight Loss  | 3             | Outdoor          |
+| 159    | Male   | 34  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 160    | Female | 37  | Advanced      | Legs                | Muscle Gain  | 5             | Home             |
+| 161    | Male   | 30  | Beginner      | Full Body           | Weight Loss  | 3             | Outdoor          |
+| 162    | Female | 39  | Intermediate  | Arms, Shoulders     | Toning       | 4             | Gym              |
+| 163    | Male   | 31  | Advanced      | Core                | Muscle Gain  | 5             | Home             |
+| 164    | Female | 33  | Beginner      | Legs                | Weight Loss  | 3             | Gym              |
+| 165    | Male   | 42  | Intermediate  | Chest, Back         | Toning       | 4             | Outdoor          |
+| 166    | Female | 36  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Home             |
+| 167    | Male   | 29  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 168    | Female | 30  | Intermediate  | Core                | Toning       | 4             | Outdoor          |
+| 169    | Male   | 43  | Advanced      | Legs                | Muscle Gain  | 5             | Gym              |
+| 170    | Female | 31  | Beginner      | Arms, Shoulders     | Weight Loss  | 3             | Home             |
+| 171    | Male   | 37  | Intermediate  | Chest, Back         | Toning       | 4             | Gym              |
+| 172    | Female | 34  | Advanced      | Core                | Muscle Gain  | 5             | Outdoor          |
+| 173    | Male   | 35  | Beginner      | Full Body           | Weight Loss  | 3             | Gym              |
+| 174    | Female | 40  | Intermediate  | Legs                | Toning       | 4             | Home             |
+| 175    | Male   | 32  | Advanced      | Arms, Shoulders     | Muscle Gain  | 5             | Gym              |

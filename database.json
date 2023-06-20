@@ -1,0 +1,406 @@
+{
+"Male-fullbody-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-loss_weight-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio (such as jumping jacks, jogging in place, or high knees",
+    "Workout":["Bodyweight Squats - 3 sets of 12 reps",
+                "Lunges - 3 sets of 12 reps",
+                "Push-Ups - 3 sets of 12 reps",
+                "Dumbbell Rows (using water bottles or other household objects as weights) - 3 sets of 12 reps per arm",
+                "Dumbbell Shoulder Press (using water bottles or other household objects as weights) - 3 sets of 12 reps",
+                "Plank - 3 sets, holding for 30-60 seconds each",
+                "Bicycle Crunches - 3 sets of 12 reps per side"
+                
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio (such as jumping jacks, jogging in place, or high knees)",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-fullbody-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-arm-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-arm-build_muscle-Home":{
+    "Workout Location":"Home",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-chest-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Male-chest-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Male-abs-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+
+"Male-abs-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Male-leg-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Male-leg-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-fullbody-loss_weight-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-fullbody-loss_weight-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-arm-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-arm-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-chest-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-chest-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-abs-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-abs-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-leg-build_muscle-Gym":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+},
+"Female-leg-build_muscle-Home":{
+    "Workout Location":"Gym",
+    "Duration":"4-6 weeks",
+    "Warm-Up":"5-10 minutes of light cardio on a stationary bike or treadmill",
+    "Workout":["Barbell Squats - 3 sets of 12 reps",
+                "Dumbbell Lunges - 3 sets of 12 reps",
+                "Barbell Bench Press - 3 sets of 12 reps",
+                "Seated Cable Rows - 3 sets of 12 reps",
+                "Lat Pulldowns - 3 sets of 12 reps",
+                "Dumbbell Shoulder Press - 3 sets of 12 reps",
+                "Planks - 3 sets, holding for 30-60 seconds each",
+                "Crunches - 3 sets of 12 reps"
+    ],
+    "Cool Down":[
+        "5-10 minutes of light cardio on a stationary bike or treadmill",
+        "Stretching of all major muscle groups"
+    ]
+}
+
+}
